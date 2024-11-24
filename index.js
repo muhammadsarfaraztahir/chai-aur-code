@@ -1,6 +1,7 @@
 // Activity 1: Arithmetic Operations
 // task 1
 
+
 console.log(3 + 4);
 
 //task 2
